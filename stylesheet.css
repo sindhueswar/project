@@ -41,13 +41,13 @@ font-family: "Comic Sans MS", cursive, sans-serif;
       width: 50%;
     }
     .col-md-12 {
-      
+      float:left;
       width: 100%;
     }
   }
   @media (max-width: 767px)  {
     .col-xs-12 {
-      
+      float: right;
       width: 100%;
     }
   }
